@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Sports Streaming</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        body {
+            font-family: 'Roboto', Arial, sans-serif;
+            background: #181818;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #222;
+            border-radius: 10px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.5);
+            padding: 32px;
+        }
+        h1 {
+            text-align: center;
+            font-weight: 700;
+            margin-bottom: 32px;
+        }
+        .player-container {
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            margin-bottom: 0;
+        }
+        .search-container {
+            background: #222;
+            padding-top: 8px;
+            margin-bottom: 24px;
+        }
+            #searchBox {
+                width: 100%;
+                padding: 12px 16px;
+                font-size: 1.1em;
+                border-radius: 6px;
+                border: none;
+                box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+                background: #292929;
+                color: #fff;
+            }
+        .stream-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            margin-bottom: 32px;
+            justify-content: center;
+        }
+        .stream-item {
+            background: #333;
+            border-radius: 8px;
+            padding: 12px 18px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            transition: background 0.2s;
+        }
+        .stream-item:hover {
+            background: #444;
+        }
+        .tvg-logo {
+            width: 40px;
+            height: 40px;
+            object-fit: contain;
+            margin-right: 16px;
+            border-radius: 4px;
+            background: #fff;
+        }
+        .stream-title {
+            font-size: 1.1em;
+            font-weight: 500;
+        }
+        #player {
+            width: 100%;
+            height: 480px;
+            background: #000;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.5);
+        }
+            video {
+                width: 100%;
+                height: 100%;
+                background: #000;
+                border-radius: 8px;
+            }
+        .category-nav {
+            background: #232323;
+            border-radius: 8px;
+            padding: 8px 12px;
+            margin-bottom: 18px;
+        }
+        .nav-btn {
+            background: #292929;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            padding: 8px 18px;
+            font-size: 1em;
+            cursor: pointer;
+            margin-right: 4px;
+            margin-bottom: 4px;
+            transition: background 0.2s, color 0.2s;
+        }
+        .nav-btn.active, .nav-btn:hover {
+            background: #ff9800;
+            color: #181818;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Live Sports Streaming</h1>
+        <div class="player-container">
+            <div id="player"></div>
+        </div>
+        <div style="display:flex;align-items:center;gap:18px;margin-bottom:18px;flex-wrap:wrap;">
+            <select id="playlistSelector" style="padding:8px 16px;font-size:1em;border-radius:6px;background:#292929;color:#fff;border:none;">
+                <option value="roxie.m3u">Roxie Streams</option>
+                <option value="watchfty.m3u">WatchFooty Streams</option>
+            </select>
+            <nav id="categoryNav" class="category-nav" style="display:flex;gap:12px;margin-bottom:0;flex-wrap:wrap;"></nav>
+        </div>
+        <div class="search-container">
+            <input type="text" id="searchBox" placeholder="Search events...">
+        </div>
+        <div class="playlist-container">
+            <div class="stream-list" id="streamList"></div>
+        </div>
+    </div>
+    <script>
+        // Sport-specific placeholder logos
+        const sportLogos = {
+            'Fighting': 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Boxing-gloves-icon.png',
+            'Racing': 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Formula_one_icon.png',
+            'NBA': 'https://upload.wikimedia.org/wikipedia/commons/0/03/NBA_logo.svg',
+            'American Football': 'https://upload.wikimedia.org/wikipedia/commons/5/5e/American_football_icon.png',
+            'Soccer': 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Soccer_ball_icon.png',
+        };
+
+        function getCategory(title) {
+            const match = title.match(/^\[([^\]]+)\]/);
+            return match ? match[1] : 'Other';
+        }
+
+        function parseM3U(m3u) {
+            const lines = m3u.split('\n');
+            const streams = [];
+            for (let i = 0; i < lines.length; i++) {
+                if (lines[i].startsWith('#EXTINF')) {
+                    const info = lines[i].trim();
+                    const url = lines[i + 1] ? lines[i + 1].trim() : '';
+                    const titleMatch = info.match(/,(.*)$/);
+                    let title = titleMatch ? titleMatch[1].trim() : '';
+                    // Remove (ROXIE) or similar suffix if present
+                    title = title.replace(/\s*\([^)]+\)\s*$/, '').trim();
+                    // If title is still empty after trimming, fallback
+                    if (!title) {
+                        try {
+                            const u = new URL(url);
+                            title = decodeURIComponent(u.pathname.split('/').pop().replace(/\.[^/.]+$/, '').replace(/[_-]/g, ' '));
+                        } catch {
+                            title = url;
+                        }
+                    }
+                    const category = getCategory(title);
+                    streams.push({ title, url, category });
+                }
+            }
+            return streams;
+        }
+
+        const streamList = document.getElementById('streamList');
+        let hls;
+        function playStream(url) {
+            const playerDiv = document.getElementById('player');
+            playerDiv.innerHTML = '';
+            const video = document.createElement('video');
+            video.controls = true;
+            video.autoplay = true;
+            video.style.background = '#000';
+            playerDiv.appendChild(video);
+
+            if (hls) {
+                hls.destroy();
+            }
+
+            // Use native HLS playback if supported
+            if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = url;
+                video.addEventListener('error', function () {
+                    playerDiv.innerHTML = '<div style="color:#ff5252;text-align:center;padding:40px;font-size:1.2em;">Stream cannot be played in browser.<br>Try using VLC or check CORS/network settings.</div>';
+                });
+            } else if (window.Hls && Hls.isSupported()) {
+                hls = new Hls();
+                hls.loadSource(url);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.ERROR, function (event, data) {
+                    if (data.fatal) {
+                        playerDiv.innerHTML = '<div style="color:#ff5252;text-align:center;padding:40px;font-size:1.2em;">Stream cannot be played in browser.<br>Try using VLC or check CORS/network settings.</div>';
+                    }
+                });
+            } else {
+                playerDiv.innerHTML = '<div style="color:#ff5252;text-align:center;padding:40px;font-size:1.2em;">Your browser does not support HLS.<br>Try using VLC or a different browser.</div>';
+            }
+        }
+
+        function renderStreams(filteredStreams) {
+            streamList.innerHTML = '';
+            filteredStreams.forEach((stream) => {
+                const item = document.createElement('div');
+                item.className = 'stream-item';
+                item.onclick = () => playStream(stream.url);
+
+                const title = document.createElement('span');
+                title.className = 'stream-title';
+                // Remove [Category] prefix for display
+                title.textContent = stream.title.replace(/^\[[^\]]+\]\s*/, '');
+
+                item.appendChild(title);
+                streamList.appendChild(item);
+            });
+        }
+
+        // Fetch and parse selected playlist, then render
+        function loadPlaylist(playlistFile) {
+            fetch(playlistFile)
+                .then(response => response.text())
+                .then(m3uContent => {
+                    const streams = parseM3U(m3uContent);
+                    // Build unique category list
+                    const categories = Array.from(new Set(streams.map(s => s.category)));
+                    const nav = document.getElementById('categoryNav');
+                    nav.innerHTML = '';
+                    // Add 'All Sports' nav item
+                    const allBtn = document.createElement('button');
+                    allBtn.textContent = 'All Sports';
+                    allBtn.className = 'nav-btn active';
+                    allBtn.dataset.category = 'all';
+                    nav.appendChild(allBtn);
+                    categories.forEach(cat => {
+                        const btn = document.createElement('button');
+                        btn.textContent = cat;
+                        btn.className = 'nav-btn';
+                        btn.dataset.category = cat;
+                        nav.appendChild(btn);
+                    });
+
+                    let currentCategory = 'all';
+                    let currentQuery = '';
+
+                    function filterAndRender() {
+                        let filtered = streams;
+                        if (currentCategory !== 'all') {
+                            filtered = filtered.filter(s => s.category === currentCategory);
+                        }
+                        if (currentQuery) {
+                            filtered = filtered.filter(s => s.title.toLowerCase().includes(currentQuery));
+                        }
+                        renderStreams(filtered.length ? filtered : streams);
+                    }
+
+                    nav.querySelectorAll('button').forEach(btn => {
+                        btn.addEventListener('click', function() {
+                            nav.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+                            this.classList.add('active');
+                            currentCategory = this.dataset.category;
+                            filterAndRender();
+                        });
+                    });
+
+                    const searchBox = document.getElementById('searchBox');
+                    searchBox.oninput = function() {
+                        currentQuery = this.value.toLowerCase();
+                        filterAndRender();
+                    };
+
+                    renderStreams(streams);
+                    if (streams.length) playStream(streams[0].url);
+                })
+                .catch(err => {
+                    streamList.innerHTML = `<div style="color:#ff5252;text-align:center;padding:40px;font-size:1.2em;">Failed to load playlist ${playlistFile}.<br>${err}<br><button id="retryBtn" style="margin-top:20px;padding:10px 24px;font-size:1em;background:#444;color:#fff;border:none;border-radius:6px;cursor:pointer;">Retry</button></div>`;
+                    const retryBtn = document.getElementById('retryBtn');
+                    if (retryBtn) retryBtn.onclick = () => loadPlaylist(playlistFile);
+                });
+        }
+
+        // Playlist selector logic
+        const playlistSelector = document.getElementById('playlistSelector');
+        playlistSelector.addEventListener('change', function() {
+            loadPlaylist(this.value);
+        });
+
+        // Initial load
+        loadPlaylist(playlistSelector.value);
+    </script>
+</body>
+</html>

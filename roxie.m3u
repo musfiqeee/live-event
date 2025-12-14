@@ -23,8 +23,6 @@ https://600.roxiestreams.live/nfl2.m3u8
 https://600.roxiestreams.live/nfl4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Washington Commanders vs New York Giants (ROXIE)
 https://600.roxiestreams.live/nfl5.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Las Vegas Raiders vs Philadelphia Eagles (ROXIE)
-https://600.roxiestreams.live/nfl6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] New York Jets vs Jacksonville Jaguars (ROXIE)
 https://600.roxiestreams.live/nfl7.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Arizona Cardinals vs Houston Texans (ROXIE)
@@ -72,7 +70,7 @@ https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Marseille vs Monaco (ROXIE)
 https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bologna vs Juventus (ROXIE)
-https://daffodil.shadow-ran.online/cbssn.m3u8
+https://daffodil.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Deportivo Alavés vs Real Madrid (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Corinthians vs Cruzeiro (ROXIE)

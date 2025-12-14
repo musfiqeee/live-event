@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] East vs West 21 (ROXIE)
-https://600.shadow-ran.online/ppv3.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] Redneck Brawl 11 (ROXIE)
-https://600.shadow-ran.online/ppv2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Saturday Night Main Event (ROXIE)
-https://600.xn--1000-ugoxe8a5a7g4h.com/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Orlando Magic (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] San Antonio Spurs vs Oklahoma City Thunder (ROXIE)
@@ -27,8 +21,6 @@ https://daffodil.shadow-ran.online/nba2.m3u8
 https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Villanova v Tarleton State (ROXIE)
 https://daffodil.shadow-ran.online/ncaa2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Army vs Navy (ROXIE)
-https://600.shadow-ran.online/ncaa3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] South Dakota v Montana (ROXIE)
 https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Boise State v Washington (ROXIE)

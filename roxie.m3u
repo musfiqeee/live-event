@@ -14,33 +14,31 @@ https://daffodil.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Lakers vs Phoenix Suns (ROXIE)
 https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] NFL RedZone (ROXIE)
-https://600.tanjung.eu.org/redzone.m3u8
+https://600.roxiestreams.live/redzone2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Cleveland Browns vs Chicago Bears (ROXIE)
-https://600.tanjung.eu.org/nfl.m3u8
+https://600.roxiestreams.live/nfl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Baltimore Ravens vs Cincinnati Bengals (ROXIE)
-https://600.tanjung.eu.org/nfl2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Los Angeles Chargers vs Kansas City Chiefs (ROXIE)
-https://600.tanjung.eu.org/nfl3.m3u8
+https://600.roxiestreams.live/nfl2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Buffalo Bills vs New England Patriots (ROXIE)
-https://600.tanjung.eu.org/nfl4.m3u8
+https://600.roxiestreams.live/nfl4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Washington Commanders vs New York Giants (ROXIE)
-https://600.tanjung.eu.org/nfl5.m3u8
+https://600.roxiestreams.live/nfl5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Las Vegas Raiders vs Philadelphia Eagles (ROXIE)
-https://600.tanjung.eu.org/nfl6.m3u8
+https://600.roxiestreams.live/nfl6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] New York Jets vs Jacksonville Jaguars (ROXIE)
-https://600.tanjung.eu.org/nfl7.m3u8
+https://600.roxiestreams.live/nfl7.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Arizona Cardinals vs Houston Texans (ROXIE)
-https://600.tanjung.eu.org/nfl8.m3u8
+https://600.roxiestreams.live/nfl8.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Green Bay Packers vs Denver Broncos (ROXIE)
-https://600.tanjung.eu.org/nfl9.m3u8
+https://600.roxiestreams.live/nfl9.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Detroit Lions vs Los Angeles Rams (ROXIE)
-https://600.tanjung.eu.org/nfl10.m3u8
+https://600.roxiestreams.live/nfl10.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Carolina Panthers vs New Orleans Saints (ROXIE)
-https://600.tanjung.eu.org/nfl11.m3u8
+https://600.roxiestreams.live/nfl11.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Tennessee Titans vs San Francisco 49ers (ROXIE)
-https://600.tanjung.eu.org/nfl12.m3u8
+https://600.roxiestreams.live/nfl12.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Indianapolis Colts vs Seattle Seahawks (ROXIE)
-https://600.tanjung.eu.org/nfl13.m3u8
+https://600.roxiestreams.live/nfl13.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sevilla vs Real Oviedo (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lyon vs Le Havre (ROXIE)
@@ -53,8 +51,6 @@ https://daffodil.shadow-ran.online/mancity.m3u8
 https://daffodil.shadow-ran.online/aston.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Nottingham Forest vs Tottenham (ROXIE)
 https://daffodil.shadow-ran.online/usa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sunderland vs Newcastle (ROXIE)
-https://daffodil.shadow-ran.online/sunder.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Freiburg vs Dortmund (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Celta De Vigo vs Athletic Club (ROXIE)
@@ -65,8 +61,6 @@ https://daffodil.shadow-ran.online/cbssn.m3u8
 https://daffodil.shadow-ran.online/lille.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lens vs Nice (ROXIE)
 https://daffodil.shadow-ran.online/beines.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Brentford vs Leeds United (ROXIE)
-https://daffodil.shadow-ran.online/sunder.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bayern München vs Mainz 05 (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Genoa vs Inter Milan (ROXIE)
@@ -82,4 +76,4 @@ https://daffodil.shadow-ran.online/cbssn.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Deportivo Alavés vs Real Madrid (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Corinthians vs Cruzeiro (ROXIE)
-https://daffodil.shadow-ran.online/tigres.m3u8
+https://daffodil.shadow-ran.online/sportv.m3u8

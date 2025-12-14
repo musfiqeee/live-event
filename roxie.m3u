@@ -75,3 +75,7 @@ https://daffodil.shadow-ran.online/sportv.m3u8
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Corinthians vs Cruzeiro (ROXIE)
 https://daffodil.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fluminense vs Vasco Da Gama (ROXIE)
+https://daffodil.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Toluca vs Tigres (ROXIE)
+https://600.roxiestreams.live/tudn.m3u8

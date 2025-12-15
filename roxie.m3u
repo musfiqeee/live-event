@@ -7,6 +7,8 @@ https://daffodil.shadow-ran.online/nba3.m3u8
 https://daffodil.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Memphis Grizzlies vs Los Angeles Clippers (ROXIE)
 https://daffodil.shadow-ran.online/nba5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Miami Dolphins vs Pittsburgh Steelers (ROXIE)
+https://600.tanjung.eu.org/nfl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Roma vs Como (ROXIE)
 https://daffodil.shadow-ran.online/roma.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rayo Vallecano vs Real Betis (ROXIE)

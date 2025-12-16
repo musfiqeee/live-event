@@ -129,6 +129,7 @@
             <select id="playlistSelector" style="padding:8px 16px;font-size:1em;border-radius:6px;background:#292929;color:#fff;border:none;">
                 <option value="roxie.m3u">Roxie Streams</option>
                 <option value="watchfty.m3u">WatchFooty Streams</option>
+                <option value="ppv.m3u">PPV Streams</option>
             </select>
             <nav id="categoryNav" class="category-nav" style="display:flex;gap:12px;margin-bottom:0;flex-wrap:wrap;"></nav>
         </div>
@@ -149,9 +150,45 @@
             'Soccer': 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Soccer_ball_icon.png',
         };
 
-        function getCategory(title) {
+        function getCategoryFromTitle(title) {
             const match = title.match(/^\[([^\]]+)\]/);
-            return match ? match[1] : 'Other';
+            return match ? match[1] : null;
+        }
+
+        const categoryMap = {
+            'nfl': 'American Football',
+            'nba': 'Basketball',
+            'nhl': 'Ice Hockey',
+            'ufc': 'Combat Sports',
+            'wwe': 'Wrestling',
+            'aew': 'Wrestling',
+            'premierleague': 'Football',
+            'laliga': 'Football',
+            'seriea': 'Football',
+            'bundesliga': 'Football',
+            'nhl': 'Ice Hockey',
+            '247-south-park': '24/7 Streams'
+        };
+
+        function detectCategory(title, url) {
+            // prefer explicit [Category] in title
+            const tcat = getCategoryFromTitle(title);
+            if (tcat) return tcat;
+
+            try {
+                const u = new URL(url);
+                const parts = u.pathname.split('/').filter(Boolean);
+                // path like /embed/nfl/2025-12-18/lar-sea -> sport is parts[1]
+                let candidate = parts[0] || '';
+                if (candidate.toLowerCase() === 'embed' && parts[1]) candidate = parts[1];
+                candidate = candidate.toLowerCase();
+                if (categoryMap[candidate]) return categoryMap[candidate];
+                // fallback: capitalized candidate
+                if (candidate) return candidate.charAt(0).toUpperCase() + candidate.slice(1);
+            } catch (e) {
+                // ignore
+            }
+            return 'Other';
         }
 
         function parseM3U(m3u) {
@@ -174,7 +211,7 @@
                             title = url;
                         }
                     }
-                    const category = getCategory(title);
+                    const category = detectCategory(title, url);
                     streams.push({ title, url, category });
                 }
             }

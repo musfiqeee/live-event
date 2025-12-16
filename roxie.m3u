@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
-https://daffodil.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] JACK vs MIKAELIAN (ROXIE)
-https://600.shadow-ran.online/ppv.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Saturday Night Main Event (ROXIE)
-https://daffodil.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Orlando Magic (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Detroit Pistons vs Boston Celtics (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Toronto Raptors vs Miami Heat (ROXIE)
 https://daffodil.shadow-ran.online/nba2.m3u8
@@ -13,19 +7,11 @@ https://daffodil.shadow-ran.online/nba2.m3u8
 https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Denver Nuggets (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Villanova v Tarleton State (ROXIE)
-https://600.shadow-ran.online/ncaa2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Army vs Navy (ROXIE)
-https://600.shadow-ran.online/ncaa3.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] South Dakota v Montana (ROXIE)
-https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Boise State v Washington (ROXIE)
-https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Wimbledon vs Mansfield Town (ROXIE)
-https://daffodil.shadow-ran.online/betis.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Stoke City vs Swansea City (ROXIE)
-https://daffodil.shadow-ran.online/beines.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atletico Madrid vs Valencia (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Memphis Grizzlies vs Los Angeles Clippers (ROXIE)
+https://daffodil.shadow-ran.online/nba5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Roma vs Como (ROXIE)
+https://daffodil.shadow-ran.online/roma.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rayo Vallecano vs Real Betis (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester United vs Bournemouth (ROXIE)
 https://daffodil.shadow-ran.online/usa.m3u8

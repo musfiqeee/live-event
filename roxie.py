@@ -168,9 +168,13 @@ async def get_events(
     start_ts = now.delta(minutes=-30).timestamp()
     end_ts = now.delta(minutes=30).timestamp()
     for k, v in events.items():
-        if cached_keys & {k}:
-            continue
-        if not start_ts <= v["event_ts"] <= end_ts:
+        # Filter out short videos/highlights by keywords in event name
+        event_name = v["event"].lower()
+        if (
+            cached_keys & {k}
+            or not start_ts <= v["event_ts"] <= end_ts
+            or any(word in event_name for word in ["highlight", "short", "recap", "mini", "replay"])
+        ):
             continue
         live.append({**v})
     return live
@@ -218,6 +222,11 @@ async def scrape(client: httpx.AsyncClient) -> None:
     else:
         log.info("No new events found")
     CACHE_FILE.write(cached_urls)
+
+    # Also export live streaming events to roxie.json for API/debugging
+    import json
+    with open("roxie.json", "w", encoding="utf-8") as jf:
+        json.dump(urls, jf, ensure_ascii=False, indent=2)
 
     # Export only working links to M3U playlist
     m3u_lines = ['#EXTM3U']

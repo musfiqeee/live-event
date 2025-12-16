@@ -65,12 +65,15 @@ log = get_logger(__name__)
 
 urls: dict[str, dict[str, str | float]] = {}
 
-CACHE_FILE = Cache("watchfty.json", exp=10_800)
-API_FILE = Cache("watchfty-api.json", exp=28_800)
+CACHE_FILE = Cache("watchfty.json", exp=None)
+API_FILE = Cache("watchfty-api.json", exp=None)
 API_MIRRORS = ["https://api.watchfooty.st"]
 BASE_MIRRORS = ["https://www.watchfooty.top", "https://www.watchfooty.st"]
 SPORT_ENDPOINTS = [
     "football",
+    "basketball",
+    "cricket",
+
 ]
 TAG = "WFTY"
 
@@ -144,8 +147,8 @@ async def get_events(client: httpx.AsyncClient, api_url: str, base_url: str, cac
     events = []
     import datetime
     now = datetime.datetime.now()
-    start_dt = now - datetime.timedelta(hours=1)
-    end_dt = now + datetime.timedelta(hours=1)
+    start_dt = now
+    end_dt = now
     pattern = re.compile(r"\-+|\(")
     for event in api_data:
         match_id = event.get("matchId")
@@ -228,6 +231,11 @@ async def scrape(client: httpx.AsyncClient) -> None:
     with open("watchfty.m3u", "w", encoding="utf-8") as f:
         f.write("\n".join(m3u_lines))
     log.info("Exported working events to watchfty.m3u")
+
+    # Also export all event data to watchfty.json for API/debugging
+    import json
+    with open("watchfty.json", "w", encoding="utf-8") as jf:
+        json.dump(urls, jf, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     async def main():

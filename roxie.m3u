@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE RAW (ROXIE)
-https://600.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Detroit Pistons vs Boston Celtics (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Toronto Raptors vs Miami Heat (ROXIE)
@@ -11,8 +9,6 @@ https://daffodil.shadow-ran.online/nba3.m3u8
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Memphis Grizzlies vs Los Angeles Clippers (ROXIE)
 https://daffodil.shadow-ran.online/nba5.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Miami Dolphins vs Pittsburgh Steelers (ROXIE)
-https://600.xn--1000-ugoa0hsb9a0hb.com/nfl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Roma vs Como (ROXIE)
 https://daffodil.shadow-ran.online/roma.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rayo Vallecano vs Real Betis (ROXIE)

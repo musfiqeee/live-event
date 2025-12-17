@@ -3,6 +3,10 @@
 https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] San Antonio Spurs vs New York Knicks (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Cleveland Cavaliers vs Chicago Bulls (ROXIE)
+https://daffodil.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Memphis Grizzlies vs Minnesota Timberwolves (ROXIE)
+https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Troy vs Jacksonville State (ROXIE)
 https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sporting Gijón vs Valencia (ROXIE)

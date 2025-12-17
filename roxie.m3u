@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] TSZYU vs VELAZQUEZ (ROXIE)
+https://601.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] AEW (ROXIE)
 https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] San Antonio Spurs vs New York Knicks (ROXIE)
@@ -9,9 +11,17 @@ https://daffodil.shadow-ran.online/nba.m3u8
 https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Troy vs Jacksonville State (ROXIE)
 https://daffodil.shadow-ran.online/ncaa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sporting Gijón vs Valencia (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] PSG vs Flamengo (ROXIE)
+https://daffodil.shadow-ran.online/roma.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester City vs Brentford (ROXIE)
 https://daffodil.shadow-ran.online/val.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] CD Guadalajara vs Barcelona (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atlético Baleares vs Atlético Madrid (ROXIE)
 https://daffodil.shadow-ran.online/barca.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cardiff City vs Chelsea (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Talavera CF vs Real Madrid (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Deportivo Alavés vs Sevilla (ROXIE)
+https://daffodil.shadow-ran.online/mancity.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Newcastle United vs Fulham (ROXIE)
+https://daffodil.shadow-ran.online/aston.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Farense vs Benfica (ROXIE)
+https://daffodil.shadow-ran.online/usa.m3u8

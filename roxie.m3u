@@ -13,9 +13,9 @@ https://daffodil.shadow-ran.online/nba2.m3u8
 https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] PSG vs Flamengo (ROXIE)
 https://daffodil.shadow-ran.online/roma.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester City vs Brentford (ROXIE)
-https://daffodil.shadow-ran.online/val.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atlético Baleares vs Atlético Madrid (ROXIE)
+https://daffodil.shadow-ran.online/val.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester City vs Brentford (ROXIE)
 https://daffodil.shadow-ran.online/barca.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Talavera CF vs Real Madrid (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8

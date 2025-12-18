@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] TSZYU vs VELAZQUEZ (ROXIE)
+https://601.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] AEW (ROXIE)
 https://daffodil.shadow-ran.online/aew.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Atlanta Hawks vs Charlotte Hornets (ROXIE)
@@ -17,15 +19,17 @@ https://daffodil.shadow-ran.online/nba6.m3u8
 https://daffodil.shadow-ran.online/nba7.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Detroit Pistons vs Dallas Mavericks (ROXIE)
 https://daffodil.shadow-ran.online/nba8.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atlético Baleares vs Atlético Madrid (ROXIE)
-https://abby.xn--1000-ugoa0hsb9a0hb.com/psg.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Hutchinson v Iowa Western (ROXIE)
+https://601.shadow-ran.online/ncaa2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Napoli vs Milan (ROXIE)
-https://daffodil.shadow-ran.online/madrid.m3u8
+https://601.shadow-ran.online/milan.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Crystal Palace vs KuPS (ROXIE)
-https://daffodil.shadow-ran.online/main.m3u8
+https://601.shadow-ran.online/tnt.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Strasbourg vs Breidablik (ROXIE)
-https://abby.xn--1000-ugoa0hsb9a0hb.com/rma.m3u8
+https://601.shadow-ran.online/stras.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Real Murcia vs Real Betis (ROXIE)
+https://601.shadow-ran.online/betis.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rayo Vallecano vs Drita (ROXIE)
-https://daffodil.shadow-ran.online/fulham.m3u8
+https://601.shadow-ran.online/rayo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Mainz 05 vs Samsunspor (ROXIE)
-https://abby.xn--1000-ugoa0hsb9a0hb.com/psg.m3u8
+https://601.shadow-ran.online/mainz.m3u8

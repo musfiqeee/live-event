@@ -1,24 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] TSZYU vs VELAZQUEZ (ROXIE)
-https://601.shadow-ran.online/ppv.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] AEW (ROXIE)
-https://daffodil.shadow-ran.online/aew.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Atlanta Hawks vs Charlotte Hornets (ROXIE)
-https://daffodil.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
+https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Indiana Pacers (ROXIE)
 https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Brooklyn Nets (ROXIE)
 https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Clippers vs Oklahoma City Thunder (ROXIE)
-https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Washington Wizards vs San Antonio Spurs (ROXIE)
-https://daffodil.shadow-ran.online/nba5.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Toronto Raptors vs Milwaukee Bucks (ROXIE)
-https://daffodil.shadow-ran.online/nba6.m3u8
+https://daffodil.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs New Orleans Pelicans (ROXIE)
 https://daffodil.shadow-ran.online/nba7.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Detroit Pistons vs Dallas Mavericks (ROXIE)
 https://daffodil.shadow-ran.online/nba8.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Orlando Magic vs Denver Nuggets (ROXIE)
+https://daffodil.shadow-ran.online/nba9.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Sacramento Kings vs Portland Trail Blazers (ROXIE)
+https://daffodil.shadow-ran.online/nba12.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Napoli vs Milan (ROXIE)
 https://601.shadow-ran.online/milan.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Crystal Palace vs KuPS (ROXIE)

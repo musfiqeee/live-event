@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] PFL Africa 4 (ROXIE)
+https://601.shadow-ran.online/ppv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Denver Nuggets (ROXIE)
+https://601.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Dallas Mavericks vs Philadelphia 76ers (ROXIE)
+https://601.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Boston Celtics vs Toronto Raptors (ROXIE)
+https://601.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Philadelphia Eagles vs Washington Commanders (ROXIE)
 https://600.xn--1000-ugoxe8a5a7g4h.com/nfl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Newcastle United vs Chelsea (ROXIE)
@@ -31,9 +39,17 @@ https://601.shadow-ran.online/golazo.m3u8
 https://601.shadow-ran.online/deportes.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] RB Leipzig vs Bayer Leverkusen (ROXIE)
 https://daffodil.shadow-ran.online/foot.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tottenham Hotspur vs Liverpool (ROXIE)
+https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Osasuna vs Deportivo Alaves (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Juventus vs Roma (ROXIE)
+https://daffodil.shadow-ran.online/juve.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fontenay Vendée Foot vs PSG (ROXIE)
 https://601.shadow-ran.online/deportes.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Real Madrid vs Sevilla (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Leeds United vs Crystal Palace (ROXIE)
+https://daffodil.shadow-ran.online/usa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Everton vs Arsenal (ROXIE)
+https://daffodil.shadow-ran.online/main.m3u8

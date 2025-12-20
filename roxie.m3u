@@ -11,8 +11,14 @@ https://601.shadow-ran.online/golazo.m3u8
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] St Maur Lusitanos vs Lille (ROXIE)
 https://601.shadow-ran.online/deportes.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bournemouth vs Burnley (ROXIE)
+https://601.shadow-ran.online/burnley.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Brighton vs Sunderland (ROXIE)
+https://601.shadow-ran.online/sunderland.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester City vs West Ham (ROXIE)
 https://daffodil.shadow-ran.online/usa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Wolves vs Brentford (ROXIE)
+https://daffodil.shadow-ran.online/wolves.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Queens Park Rangers vs Leicester City (ROXIE)
 https://601.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bristol City vs Middlesbrough (ROXIE)
@@ -23,6 +29,8 @@ https://daffodil.shadow-ran.online/dep.m3u8
 https://601.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lyon Duchère vs Toulouse (ROXIE)
 https://601.shadow-ran.online/deportes.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] RB Leipzig vs Bayer Leverkusen (ROXIE)
+https://daffodil.shadow-ran.online/foot.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Osasuna vs Deportivo Alaves (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fontenay Vendée Foot vs PSG (ROXIE)

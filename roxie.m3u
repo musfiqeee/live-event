@@ -1,8 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] PFL Africa 4 (ROXIE)
+https://601.shadow-ran.online/ppv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] Misfits Mania: Andrew Tate vs Chase Demoor (ROXIE)
+https://600.alfirdaus.eu.org/ppv2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Denver Nuggets (ROXIE)
+https://601.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Dallas Mavericks vs Philadelphia 76ers (ROXIE)
 https://601.shadow-ran.online/nba2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Boston Celtics vs Toronto Raptors (ROXIE)
-https://601.shadow-ran.online/nba3.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Portland Trail Blazers vs Sacramento Kings (ROXIE)
+https://daffodil.shadow-ran.online/nba9.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Lakers vs Los Angeles Clippers (ROXIE)
+https://601.shadow-ran.online/nba10.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Philadelphia Eagles vs Washington Commanders (ROXIE)
 https://600.xn--1000-ugoxe8a5a7g4h.com/nfl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Miami (FL) vs Texas A&M (ROXIE)

@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] PFL Africa 4 (ROXIE)
 https://601.shadow-ran.online/ppv.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] Misfits Mania: Andrew Tate vs Chase Demoor (ROXIE)
-https://600.alfirdaus.eu.org/ppv2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Denver Nuggets (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Dallas Mavericks vs Philadelphia 76ers (ROXIE)
@@ -35,22 +33,12 @@ https://601.shadow-ran.online/nba4.m3u8
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Sacramento Kings (ROXIE)
 https://daffodil.shadow-ran.online/nba6.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Philadelphia Eagles vs Washington Commanders (ROXIE)
-https://600.alfirdaus.eu.org/nfl.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Green Bay Packers vs Chicago Bears (ROXIE)
-https://600.xn--1000-ugoxe8a5a7g4h.com/nfl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Miami (FL) vs Texas A&M (ROXIE)
 https://601.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Tulane vs Ole Miss (ROXIE)
 https://601.shadow-ran.online/ncaa2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] James Madison vs Oregon (ROXIE)
 https://601.shadow-ran.online/ncaa2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Buffalo Bills vs Cleveland Browns (ROXIE)
-https://600.alfirdaus.eu.org/nfl.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Los Angeles Rams vs Dallas Cowboys (ROXIE)
-https://600.xn--1000-ugoxe8a5a7g4h.com/nfl.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] New York vs New Orleans Saints (ROXIE)
-https://600.tanjung.eu.org/nfl5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Las Vegas Raiders vs Houston Texans (ROXIE)
 https://600.tanjung.eu.org/nfl11.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Girona vs Atlético Madrid (ROXIE)

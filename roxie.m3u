@@ -15,8 +15,6 @@ https://daffodil.shadow-ran.online/nba6.m3u8
 https://daffodil.birosltceria.xyz/redzone.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Buffalo Bills vs Cleveland Browns (ROXIE)
 https://daffodil.alfirdaus.eu.org/nfl.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Los Angeles Chargers vs Dallas Cowboys (ROXIE)
-https://daffodil.xn--1000-ugoxe8a5a7g4h.com/nfl2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Kansas City Chiefs vs Tennessee Titans (ROXIE)
 https://daffodil.xn--1000-ugoxe8a5a7g4h.com/nfl3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Cincinnati Bengals vs Miami Dolphins (ROXIE)
@@ -27,8 +25,12 @@ https://601.biroslotutama.org/nfl5.m3u8
 https://601.biroslotutama.org/nfl6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Tampa Bay Buccaneers vs Carolina Panthers (ROXIE)
 https://601.biroslotutama.org/nfl7.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Jacksonville Jaguars vs Denver Broncos (ROXIE)
+https://daffodil.alfirdaus.eu.org/nfl8.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Pittsburgh Steelers vs Detroit Lions (ROXIE)
+https://601.alfirdaus.eu.org/nfl10.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Las Vegas Raiders vs Houston Texans (ROXIE)
-https://600.tanjung.eu.org/nfl11.m3u8
+https://601.alfirdaus.eu.org/nfl11.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Girona vs Atlético Madrid (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Hearts vs Raners (ROXIE)

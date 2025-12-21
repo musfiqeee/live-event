@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Las Vegas Raiders vs Houston Texans (ROXIE)
+https://600.tanjung.eu.org/nfl11.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sassuolo vs Torino (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Heidenheim vs Bayern München (ROXIE)
+https://601.shadow-ran.online/bayern.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Galatasaray vs Kasımpaşa (ROXIE)
+https://601.shadow-ran.online/bein.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Al Najma vs Al Nassr (ROXIE)
+https://daffodil.shadow-ran.online/deportes.m3u8

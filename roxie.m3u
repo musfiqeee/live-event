@@ -49,8 +49,6 @@ https://601.shadow-ran.online/ncaa2.m3u8
 https://600.alfirdaus.eu.org/nfl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Los Angeles Rams vs Dallas Cowboys (ROXIE)
 https://600.xn--1000-ugoxe8a5a7g4h.com/nfl.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] New York vs New Orleans Saints (ROXIE)
-https://600.tanjung.eu.org/nfl5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Las Vegas Raiders vs Houston Texans (ROXIE)
 https://600.tanjung.eu.org/nfl11.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Girona vs Atlético Madrid (ROXIE)
@@ -61,6 +59,8 @@ https://601.shadow-ran.online/cbssn.m3u8
 https://601.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bourg En Bresse vs Marseille (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sassuolo vs Torino (ROXIE)
+https://601.shadow-ran.online/deportes.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Villarreal vs Barcelona (ROXIE)
 https://daffodil.shadow-ran.online/usa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Heidenheim vs Bayern München (ROXIE)

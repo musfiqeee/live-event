@@ -29,11 +29,7 @@ https://601.shadow-ran.online/nba12.m3u8
 https://daffodil.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Los Angeles Clippers (ROXIE)
 https://daffodil.shadow-ran.online/nba7.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Toledo vs. Louisville (ROXIE)
-https://daffodil.shadow-ran.online/ncaa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] WKU vs. Southern Miss (ROXIE)
-https://daffodil.shadow-ran.online/ncaa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] UNLV vs. Ohio (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] California v Hawai’i (ROXIE)
 https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Arsenal vs Crystal Palace (ROXIE)
 https://601.shadow-ran.online/arsenal.m3u8

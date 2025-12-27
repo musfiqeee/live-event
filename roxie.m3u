@@ -55,6 +55,10 @@ https://601.shadow-ran.online/ncaa.m3u8
 https://601.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] LSU vs. 21 Houston (ROXIE)
 https://601.shadow-ran.online/ncaa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Nottingham vs Manchester City (ROXIE)
+https://daffodil.shadow-ran.online/usa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Arsenal vs Brighton (ROXIE)
+https://daffodil.shadow-ran.online/usa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Brentford vs Bournemouth (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Burnley vs Everton (ROXIE)

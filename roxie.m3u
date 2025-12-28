@@ -13,5 +13,25 @@ https://601.shadow-ran.online/nba4.m3u8
 https://601.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Sacramento Kings vs Los Angeles Lakers (ROXIE)
 https://601.shadow-ran.online/nba6.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Chicago Bears vs San Francisco 49ers (ROXIE)
-https://601.shadow-ran.online/nfl10.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Milwaukee Bucks vs Charlotte Hornets (ROXIE)
+https://daffodil.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Washington Wizards (ROXIE)
+https://daffodil.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Golden State Warriors vs Brooklyn Nets (ROXIE)
+https://601.shadow-ran.online/nba3.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Denver Nuggets vs Miami Heat (ROXIE)
+https://601.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Orlando Magic vs Toronto Raptors (ROXIE)
+https://601.shadow-ran.online/nba5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Minnesota Timberwolves vs Chicago Bulls (ROXIE)
+https://601.shadow-ran.online/nba6.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Indiana Pacers vs Houston Rockets (ROXIE)
+https://daffodil.shadow-ran.online/nba7.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs New Orleans Pelicans (ROXIE)
+https://daffodil.shadow-ran.online/nba8.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Atlanta Hawks vs Oklahoma City Thunder (ROXIE)
+https://daffodil.shadow-ran.online/nba9.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Cleveland Cavaliers vs San Antonio Spurs (ROXIE)
+https://601.shadow-ran.online/nba10.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Dallas Mavericks vs Portland Trail Blazers (ROXIE)
+https://daffodil.shadow-ran.online/nba11.m3u8

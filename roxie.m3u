@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE RAW (ROXIE)
 https://601.shadow-ran.online/wwe2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Kubota High Limit Racing - Prelim Night 1 (ROXIE)
+https://601.shadow-ran.online/flo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Kubota High Limit Racing - Prelim Night 2 (ROXIE)
+https://601.shadow-ran.online/flo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Kubota High Limit Racing - Race (ROXIE)
+https://601.shadow-ran.online/flo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Milwaukee Bucks vs Charlotte Hornets (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Golden State Warriors vs Brooklyn Nets (ROXIE)
@@ -22,6 +28,10 @@ https://601.shadow-ran.online/nba10.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Dallas Mavericks vs Portland Trail Blazers (ROXIE)
 https://daffodil.shadow-ran.online/nba11.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Coventry City vs Ipswich Town (ROXIE)
-https://daffodil.shadow-ran.online/pl.m3u8
+https://601.shadow-ran.online/darts.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Roma vs Genoa (ROXIE)
 https://daffodil.shadow-ran.online/cbssn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Birmingham City vs Southampton (ROXIE)
+https://daffodil.shadow-ran.online/football.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Porto vs AVS (ROXIE)
+https://daffodil.shadow-ran.online/porto.m3u8

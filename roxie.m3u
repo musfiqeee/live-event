@@ -15,6 +15,12 @@ https://601.shadow-ran.online/nba2.m3u8
 https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Sacramento Kings vs Los Angeles Clippers (ROXIE)
 https://daffodil.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Coastal Carolina vs. Louisiana Tech (ROXIE)
+https://601.shadow-ran.online/ncaa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Tennessee vs. Illinois (ROXIE)
+https://601.shadow-ran.online/ncaa2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] USC vs. TCU (ROXIE)
+https://601.shadow-ran.online/ncaa3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Al Ittifaq vs Al Nassr (ROXIE)
 https://601.shadow-ran.online/darts.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Burnley vs Newcastle United (ROXIE)

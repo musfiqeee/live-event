@@ -7,18 +7,32 @@ https://601.shadow-ran.online/flo.m3u8
 https://601.shadow-ran.online/flo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Kubota High Limit Racing - Race (ROXIE)
 https://601.shadow-ran.online/flo.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Philadelphia 76ers vs Memphis Grizzlies (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Golden State Warriors vs Charlotte Hornets (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Boston Celtics vs Utah Jazz (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Minnesota Timberwolves vs Atlanta Hawks (ROXIE)
 https://daffodil.shadow-ran.online/nba2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Sacramento Kings vs Los Angeles Clippers (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Cleveland Cavaliers (ROXIE)
 https://daffodil.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Coastal Carolina vs. Louisiana Tech (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New Orleans Pelicans vs Chicago Bulls (ROXIE)
+https://daffodil.shadow-ran.online/nba5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs San Antonio Spurs (ROXIE)
+https://daffodil.shadow-ran.online/nba6.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Denver Nuggets vs Toronto Raptors (ROXIE)
+https://daffodil.shadow-ran.online/nba7.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Washington Wizards vs Milwaukee Bucks (ROXIE)
+https://daffodil.shadow-ran.online/nba8.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Portland Trail Blazers vs Oklahoma City Thunder (ROXIE)
+https://601.shadow-ran.online/nba9.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Iowa vs. Vanderbilt (ROXIE)
+https://daffodil.shadow-ran.online/ncaa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Arizona State vs. Duke (ROXIE)
 https://601.shadow-ran.online/ncaa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Tennessee vs. Illinois (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Michigan vs Texas (ROXIE)
 https://601.shadow-ran.online/ncaa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] USC vs. TCU (ROXIE)
-https://601.shadow-ran.online/ncaa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Nebraska vs. Utah (ROXIE)
+https://daffodil.shadow-ran.online/ncaa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Miami (FL) vs Ohio State (ROXIE)
+https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Nottingham Forest vs Everton (ROXIE)
 https://601.shadow-ran.online/epl2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Ham vs Brighton (ROXIE)

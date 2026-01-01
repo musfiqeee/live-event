@@ -23,6 +23,8 @@ https://daffodil.shadow-ran.online/main.m3u8
 https://daffodil.shadow-ran.online/foot.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Watford vs Birmingham (ROXIE)
 https://601.shadow-ran.online/cbssn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Stevenage vs Plymouth (ROXIE)
+https://601.shadow-ran.online/plymouth.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sheffield United vs Leicester City (ROXIE)
 https://daffodil.shadow-ran.online/foot.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Liverpool vs Leeds United (ROXIE)

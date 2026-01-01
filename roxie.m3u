@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Kubota High Limit Racing - Prelim Night 1 (ROXIE)
-https://601.shadow-ran.online/flo.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Kubota High Limit Racing - Prelim Night 2 (ROXIE)
-https://601.shadow-ran.online/flo.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Kubota High Limit Racing - Race (ROXIE)
-https://601.shadow-ran.online/flo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
+https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Golden State Warriors vs Charlotte Hornets (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Minnesota Timberwolves vs Atlanta Hawks (ROXIE)
@@ -36,6 +32,8 @@ https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Oregon vs. Texas Tech (ROXIE)
 https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Alabama vs. Indiana (ROXIE)
+https://daffodil.shadow-ran.online/ncaa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Ole Miss vs. 3 Georgia (ROXIE)
 https://daffodil.shadow-ran.online/ncaa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Watford vs Birmingham (ROXIE)
 https://601.shadow-ran.online/epl2.m3u8

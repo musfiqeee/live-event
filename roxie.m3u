@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
 https://601.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Brooklyn Nets (ROXIE)
-https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Detroit Pistons (ROXIE)
-https://daffodil.shadow-ran.online/nba2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Philadelphia 76ers vs Dallas Mavericks (ROXIE)
-https://daffodil.shadow-ran.online/nba3.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Boston Celtics vs Sacramento Kings (ROXIE)
-https://daffodil.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Utah Jazz vs Los Angeles Clippers (ROXIE)
-https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] San Antonio Spurs vs Indiana Pacers (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Brooklyn Nets vs Washington Wizards (ROXIE)
@@ -31,9 +21,13 @@ https://daffodil.shadow-ran.online/nba8.m3u8
 https://daffodil.shadow-ran.online/nba9.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Memphis Grizzlies vs Los Angeles Lakers (ROXIE)
 https://601.shadow-ran.online/nba10.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Arizona vs. SMU (ROXIE)
+https://601.shadow-ran.online/ncaa2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Al-Ahli vs Al Nassr (ROXIE)
+https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Toulouse vs Lens (ROXIE)
-https://daffodil.shadow-ran.online/foot.m3u8
+https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cagliari vs Milan (ROXIE)
-https://601.shadow-ran.online/cbssn.m3u8
+https://601.shadow-ran.online/milan.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rayo Vallecano vs Getafe (ROXIE)
-https://daffodil.shadow-ran.online/foot.m3u8
+https://daffodil.shadow-ran.online/deportes.m3u8

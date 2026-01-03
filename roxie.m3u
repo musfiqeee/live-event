@@ -23,11 +23,35 @@ https://601.shadow-ran.online/nba9.m3u8
 https://601.shadow-ran.online/nba10.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Arizona vs. SMU (ROXIE)
 https://601.shadow-ran.online/ncaa2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Al-Ahli vs Al Nassr (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Como vs Udinese (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Toulouse vs Lens (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Aston Villa vs Nottingham Forest (ROXIE)
 https://daffodil.shadow-ran.online/beines.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cagliari vs Milan (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Celtic vs Rangers (ROXIE)
 https://601.shadow-ran.online/milan.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rayo Vallecano vs Getafe (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Celta De Vigo vs Valencia (ROXIE)
 https://daffodil.shadow-ran.online/deportes.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Genoa vs Pisa (ROXIE)
+https://daffodil.shadow-ran.online/main.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Brighton vs Burnley (ROXIE)
+https://daffodil.shadow-ran.online/beines.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Wolves vs West Ham (ROXIE)
+https://daffodil.shadow-ran.online/usa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Dundee United vs Dundee (ROXIE)
+https://601.shadow-ran.online/milan.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Osasuna vs Athletic Club (ROXIE)
+https://daffodil.shadow-ran.online/deportes.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Juventus vs Leece (ROXIE)
+https://daffodil.shadow-ran.online/main.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bournemouth vs Arsenal (ROXIE)
+https://601.shadow-ran.online/fulham.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Elche vs Villarreal (ROXIE)
+https://daffodil.shadow-ran.online/deportes.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Benfica vs Estoril (ROXIE)
+https://601.shadow-ran.online/fulham.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atalanta vs Roma (ROXIE)
+https://daffodil.shadow-ran.online/main.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Espanyol vs Barcelona (ROXIE)
+https://daffodil.shadow-ran.online/usa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Leones Negros UdeG vs Monterrey (ROXIE)
+https://601.shadow-ran.online/plymouth.m3u8

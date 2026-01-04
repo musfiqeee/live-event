@@ -33,28 +33,8 @@ https://daffodil.shadow-ran.online/nba6.m3u8
 https://daffodil.shadow-ran.online/nba7alt.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Memphis Grizzlies vs Los Angeles Lakers (ROXIE)
 https://601.shadow-ran.online/nba8.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Arizona Cardinals vs Los Angeles Rams (ROXIE)
-https://601.shadow-ran.online/nfl11.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[American Football] Miami Dolphins vs New England Patriots (ROXIE)
 https://601.shadow-ran.online/nfl12.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Leeds United vs Manchester United (ROXIE)
-https://daffodil.shadow-ran.online/usa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Birmingham City vs Coventry City (ROXIE)
-https://daffodil.shadow-ran.online/cbssn.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Queens Park Rangers vs Sheffield Wednesday (ROXIE)
-https://601.shadow-ran.online/qpr.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sevilla vs Levante (ROXIE)
-https://daffodil.shadow-ran.online/deportes.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Marseille vs Nantes (ROXIE)
-https://601.shadow-ran.online/westham.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fulham vs Liverpool (ROXIE)
-https://601.shadow-ran.online/benfica.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tottenham Hotspur vs Sunderland (ROXIE)
-https://601.shadow-ran.online/ligamx.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Derby County vs Wrexham (ROXIE)
-https://daffodil.shadow-ran.online/cbssn.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Real Madrid vs Real Betis (ROXIE)
-https://daffodil.shadow-ran.online/deportes.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester City vs Chelsea (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Mallorca vs Girona (ROXIE)

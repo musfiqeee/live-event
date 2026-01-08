@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
 https://601.shadow-ran.online/wwe2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Toronto Raptors vs Charlotte Hornets (ROXIE)
-https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Chicago Bulls vs Detroit Pistons (ROXIE)
-https://daffodil.shadow-ran.online/nba2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Washington Wizards vs Philadelphia 76ers (ROXIE)
-https://daffodil.shadow-ran.online/nba3.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Denver Nuggets vs Boston Celtics (ROXIE)
-https://601.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New Orleans Pelicans vs Atlanta Hawks (ROXIE)
-https://daffodil.shadow-ran.online/nba5.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Orlando Magic vs Brooklyn Nets (ROXIE)
-https://daffodil.shadow-ran.online/nba6.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Clippers vs New York Knicks (ROXIE)
-https://daffodil.shadow-ran.online/nba7.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Memphis Grizzlies (ROXIE)
-https://daffodil.shadow-ran.online/nba8.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Utah Jazz vs Oklahoma City Thunder (ROXIE)
-https://daffodil.shadow-ran.online/nba9.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Lakers vs San Antonio Spurs (ROXIE)
-https://601.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Milwaukee Bucks vs Golden State Warriors (ROXIE)
-https://601.shadow-ran.online/nba11.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Portland Trail Blazers (ROXIE)
-https://601.shadow-ran.online/nba12.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Indiana Pacers vs Charlotte Hornets (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Chicago Bulls (ROXIE)

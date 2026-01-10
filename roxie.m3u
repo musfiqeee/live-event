@@ -13,13 +13,13 @@ https://daffodil.shadow-ran.online/nba3.m3u8
 https://601.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Dallas Mavericks vs Chicago Bulls (ROXIE)
 https://601.shadow-ran.online/nba5.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Roma vs Sassuolo (ROXIE)
-https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Avranches vs Strasbourg (ROXIE)
 https://daffodil.shadow-ran.online/fsp.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atalanta vs Torino (ROXIE)
-https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sochaux vs Lens (ROXIE)
 https://daffodil.shadow-ran.online/fsp.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Chivas vs Pachuca (ROXIE)
-https://601.shadow-ran.online/e4.m3u8
+https://601.shadow-ran.online/chivas.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] León vs Cruz Azul (ROXIE)
+https://601.shadow-ran.online/tudn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Monterrey vs Toluca (ROXIE)
+https://601.shadow-ran.online/tudn.m3u8

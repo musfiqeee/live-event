@@ -4,7 +4,11 @@ https://601.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Formula E - Grand Prix (ROXIE)
 https://601.shadow-ran.online/f1.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New Orleans Pelicans vs Orlando Magic (ROXIE)
-https://daffodil.shadow-ran.online/nba.m3u8
+https://cc.tuttobici.org/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Brooklyn Nets vs Memphis Grizzlies (ROXIE)
+https://daffodil.biroslotads2.com/nba2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Philadelphia 76ers vs Toronto Raptors (ROXIE)
+https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Portland Trail Blazers (ROXIE)
 https://601.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] San Antonio Spurs vs Minnesota Timberwolves (ROXIE)
@@ -21,16 +25,12 @@ https://601.shadow-ran.online/nba9.m3u8
 https://601.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Portsmouth vs Arsenal (ROXIE)
 https://601.shadow-ran.online/tnt.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fiorentina vs Milan (ROXIE)
-https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Ham United vs Queens Park Ragers (ROXIE)
 https://601.shadow-ran.online/tnt5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Aberdeen vs Rangers (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester United vs Brighton (ROXIE)
 https://601.shadow-ran.online/tnt.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Verona vs Lazio (ROXIE)
-https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Inter Milan vs Napoli (ROXIE)
 https://daffodil.shadow-ran.online/tnt2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atlético San Luis vs Tigres UANL (ROXIE)

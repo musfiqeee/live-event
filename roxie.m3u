@@ -35,13 +35,17 @@ https://601.shadow-ran.online/nbaalt.m3u8
 https://601.shadow-ran.online/nba9.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Sacramento Kings (ROXIE)
 https://601.shadow-ran.online/nba5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Portsmouth vs Arsenal (ROXIE)
+https://601.shadow-ran.online/tnt.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fiorentina vs Milan (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Ham United vs Queens Park Ragers (ROXIE)
 https://daffodil.shadow-ran.online/fsp.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester United vs Brighton (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bayern München vs Wolfsburg (ROXIE)
-https://601.shadow-ran.online/benfica.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Verona vs Lazio (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Inter Milan vs Napoli (ROXIE)
-https://601.shadow-ran.online/chivas.m3u8
+https://daffodil.shadow-ran.online/tnt2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atlético San Luis vs Tigres UANL (ROXIE)
 https://601.shadow-ran.online/tudn.m3u8

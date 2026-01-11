@@ -40,7 +40,9 @@ https://601.shadow-ran.online/tnt.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fiorentina vs Milan (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Ham United vs Queens Park Ragers (ROXIE)
-https://daffodil.shadow-ran.online/fsp.m3u8
+https://601.shadow-ran.online/tnt5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Aberdeen vs Rangers (ROXIE)
+https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester United vs Brighton (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Verona vs Lazio (ROXIE)

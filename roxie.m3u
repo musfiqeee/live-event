@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] MATIAS vs SMITH (ROXIE)
+https://601.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] AMA Supercross - Race (ROXIE)
-https://daffodil.shadow-ran.online/sx.m3u8
+https://601.shadow-ran.online/sx.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Formula E - Grand Prix (ROXIE)
 https://601.shadow-ran.online/f1.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Minnesota Timberwolves vs Cleveland Cavaliers (ROXIE)
@@ -21,5 +23,7 @@ https://daffodil.shadow-ran.online/fsp.m3u8
 https://601.shadow-ran.online/chivas.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] León vs Cruz Azul (ROXIE)
 https://601.shadow-ran.online/tudn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Santos Laguna vs Necaxa (ROXIE)
+https://daffodil.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Monterrey vs Toluca (ROXIE)
 https://601.shadow-ran.online/tudn.m3u8

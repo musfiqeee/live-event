@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE RAW (ROXIE)
-https://601.shadow-ran.online/wwe2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE NXT (ROXIE)
-https://601.shadow-ran.online/wwe2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Formula E - Grand Prix (ROXIE)
 https://601.shadow-ran.online/f1.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New Orleans Pelicans vs Orlando Magic (ROXIE)
 https://cc.tuttobici.org/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Brooklyn Nets vs Memphis Grizzlies (ROXIE)
-https://daffodil.biroslotads2.com/nba2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Philadelphia 76ers vs Toronto Raptors (ROXIE)
 https://daffodil.shadow-ran.online/nba3.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Portland Trail Blazers (ROXIE)
-https://601.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] San Antonio Spurs vs Minnesota Timberwolves (ROXIE)
 https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Oklahoma City Thunder (ROXIE)

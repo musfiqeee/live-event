@@ -19,6 +19,8 @@ https://daffodil.shadow-ran.online/nba6.m3u8
 https://daffodil.shadow-ran.online/nba7.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bayeux vs Marseille (ROXIE)
 https://daffodil.shadow-ran.online/fs2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Deportivo La Coruña vs Atletico Madrid (ROXIE)
+https://601.shadow-ran.online/atl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Puebla vs Mazatlán (ROXIE)
 https://601.shadow-ran.online/psg.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Necaxa vs Monterrey (ROXIE)

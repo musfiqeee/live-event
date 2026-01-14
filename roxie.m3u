@@ -24,7 +24,9 @@ https://602.shadow-ran.online/e4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Benfica vs Porto (ROXIE)
 https://602.shadow-ran.online/benfica.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Boca Juniors vs Millonarios (ROXIE)
-https://daffodil.shadow-ran.online/tudn.m3u8
+https://daffodil.shadow-ran.online/boca.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fluminense vs Madureira (ROXIE)
+https://602.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cruz Azul vs Atlas (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tigres UANL vs Pumas UNAM (ROXIE)

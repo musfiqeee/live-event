@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE NXT (ROXIE)
-https://601.shadow-ran.online/wwe2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Formula E - Grand Prix (ROXIE)
-https://601.shadow-ran.online/f1.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Miami Heat (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Chicago Bulls vs Houston Rockets (ROXIE)
@@ -19,13 +15,5 @@ https://daffodil.shadow-ran.online/nba6.m3u8
 https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bayeux vs Marseille (ROXIE)
 https://daffodil.shadow-ran.online/fs2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Deportivo La Coruña vs Atletico Madrid (ROXIE)
-https://601.shadow-ran.online/atl.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Puebla vs Mazatlán (ROXIE)
-https://601.shadow-ran.online/azteca.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Necaxa vs Monterrey (ROXIE)
-https://601.shadow-ran.online/azteca.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Pachuca vs León (ROXIE)
 https://daffodil.shadow-ran.online/tudn.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Juárez vs Chivas (ROXIE)
-https://601.shadow-ran.online/chivas.m3u8

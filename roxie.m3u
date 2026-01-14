@@ -25,6 +25,8 @@ https://daffodil.shadow-ran.online/golazo.m3u8
 https://602.shadow-ran.online/foot.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Nigeria vs Morocco (ROXIE)
 https://602.shadow-ran.online/e4.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Benfica vs Porto (ROXIE)
+https://602.shadow-ran.online/benfica.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Boca Juniors vs Millonarios (ROXIE)
 https://daffodil.shadow-ran.online/tudn.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cruz Azul vs Atlas (ROXIE)

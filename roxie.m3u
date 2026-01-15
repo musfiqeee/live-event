@@ -12,7 +12,7 @@ https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Sacramento Kings (ROXIE)
 https://daffodil.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Washington Wizards vs Los Angeles Clippers (ROXIE)
-https://daffodil.shadow-ran.online/nba5.m3u8
+https://daffodil.shadow-ran.online/nba7.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Köln vs Bayern München (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Falkirk vs Celtic (ROXIE)
@@ -33,5 +33,3 @@ https://602.shadow-ran.online/one.m3u8
 https://602.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Querétaro vs Tijuana (ROXIE)
 https://602.shadow-ran.online/one.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tigres UANL vs Pumas UNAM (ROXIE)
-https://daffodil.shadow-ran.online/tnt2.m3u8

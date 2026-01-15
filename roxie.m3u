@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Köln vs Bayern München (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Memphis Grizzlies vs Orlando Magic (ROXIE)
+https://daffodil.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Detroit Pistons (ROXIE)
+https://daffodil.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Boston Celtics vs Miami Heat (ROXIE)
+https://daffodil.shadow-ran.online/nba3.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Oklahoma City Thunder vs Houston Rockets (ROXIE)
+https://daffodil.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Milwaukee Bucks vs San Antonio Spurs (ROXIE)
+https://daffodil.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Utah Jazz vs Dallas Mavericks (ROXIE)
+https://daffodil.shadow-ran.online/nba6.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Golden State Warriors (ROXIE)
+https://daffodil.shadow-ran.online/nba7.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Verona vs Bologna (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Augsburg vs Union Berlin (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Falkirk vs Celtic (ROXIE)
-https://602.shadow-ran.online/cbssn.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Chelsea vs Arsenal (ROXIE)
-https://602.shadow-ran.online/foot.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Nigeria vs Morocco (ROXIE)
-https://602.shadow-ran.online/e4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Benfica vs Porto (ROXIE)
-https://602.shadow-ran.online/benfica.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Boca Juniors vs Millonarios (ROXIE)
-https://daffodil.shadow-ran.online/boca.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fluminense vs Madureira (ROXIE)
-https://602.shadow-ran.online/sportv.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cruz Azul vs Atlas (ROXIE)
-https://602.shadow-ran.online/one.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Grêmio vs EC São José (ROXIE)
-https://602.shadow-ran.online/sportv.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Querétaro vs Tijuana (ROXIE)
-https://602.shadow-ran.online/one.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Como vs Milan (ROXIE)
+https://daffodil.shadow-ran.online/tnt.m3u8

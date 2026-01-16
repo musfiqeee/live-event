@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
 https://daffodil.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New Orleans Pelicans vs Indiana Pacers (ROXIE)
-https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Cleveland Cavaliers vs Philadelphia 76ers (ROXIE)
 https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Chicago Bulls vs Brooklyn Nets (ROXIE)
@@ -27,3 +25,35 @@ https://daffodil.shadow-ran.online/beines.m3u8
 https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Bromwich Albion vs Middlesbrough (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester United vs Manchester City (ROXIE)
+https://daffodil.shadow-ran.online/beines.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Ipswich Town vs Blackburn Rovers (ROXIE)
+https://daffodil.shadow-ran.online/one.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Watford vs Millwall (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Coventry City vs Leicester City (ROXIE)
+https://daffodil.shadow-ran.online/rangers.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Real Madrid vs Levante (ROXIE)
+https://daffodil.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Udinese vs Inter Milan (ROXIE)
+https://daffodil.shadow-ran.online/main.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Leeds United vs Fulham (ROXIE)
+https://daffodil.shadow-ran.online/boca.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Liverpool vs Burnley (ROXIE)
+https://daffodil.shadow-ran.online/beines.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Preston North End vs Derby County (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Stoke City vs Queens Park Rangers (ROXIE)
+https://daffodil.shadow-ran.online/rangers.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Mallorca vs Athletic Club (ROXIE)
+https://daffodil.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Napoli vs Sassuolo (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] RB Leipzig vs Bayern München (ROXIE)
+https://daffodil.shadow-ran.online/one.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Osasuna vs Real Oviedo (ROXIE)
+https://daffodil.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cagliari vs Juventus (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Real Betis vs Villarreal (ROXIE)
+https://daffodil.shadow-ran.online/dep.m3u8

@@ -8,11 +8,15 @@ https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Oklahoma City Thunder vs Houston Rockets (ROXIE)
 https://daffodil.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Milwaukee Bucks vs San Antonio Spurs (ROXIE)
-https://daffodil.shadow-ran.online/nba2.m3u8
+https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Utah Jazz vs Dallas Mavericks (ROXIE)
 https://daffodil.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Golden State Warriors (ROXIE)
 https://daffodil.shadow-ran.online/nba7.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Atlanta Hawks vs Portland Trail Blazers (ROXIE)
+https://daffodil.shadow-ran.online/nba8.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Charlotte Hornets vs Los Angeles Lakers (ROXIE)
+https://daffodil.shadow-ran.online/nba9.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Verona vs Bologna (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Augsburg vs Union Berlin (ROXIE)

@@ -12,16 +12,18 @@ https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Washington Wizards vs Sacramento Kings (ROXIE)
 https://daffodil.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Monaco vs Lorient (ROXIE)
-https://daffodil.shadow-ran.online/golazo.m3u8
+https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Werder Bremen vs Frankfurt (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Pisa vs Atalanta (ROXIE)
-https://daffodil.shadow-ran.online/tnt.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] PSG vs Lille (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rangers vs Annan Athletic (ROXIE)
+https://daffodil.shadow-ran.online/rangers.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] PSG vs Lille (ROXIE)
+https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Espanyol vs Girona (ROXIE)
-https://daffodil.shadow-ran.online/colo.m3u8
+https://daffodil.shadow-ran.online/dep.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Bromwich Albion vs Middlesbrough (ROXIE)
-https://602.shadow-ran.online/sportv.m3u8
+https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Mazatlán vs Monterrey (ROXIE)
 https://602.shadow-ran.online/benfica.m3u8

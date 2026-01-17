@@ -1,12 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Manchester United vs Manchester City (ROXIE)
+https://601.shadow-ran.online/epl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Ipswich Town vs Blackburn Rovers (ROXIE)
 https://daffodil.shadow-ran.online/arena.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Watford vs Millwall (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Coventry City vs Leicester City (ROXIE)
 https://daffodil.shadow-ran.online/cbssn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Udinese vs Inter Milan (ROXIE)
+https://601.shadow-ran.online/milan.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Leeds United vs Fulham (ROXIE)
 https://601.shadow-ran.online/fulham.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Liverpool vs Burnley (ROXIE)
+https://601.shadow-ran.online/epl.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Preston North End vs Derby County (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Stoke City vs Queens Park Rangers (ROXIE)

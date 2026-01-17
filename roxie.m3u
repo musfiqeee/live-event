@@ -13,8 +13,6 @@ https://601.shadow-ran.online/milan.m3u8
 https://601.shadow-ran.online/chelsea.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Leeds United vs Fulham (ROXIE)
 https://601.shadow-ran.online/fulham.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sunderland vs Crystal Palace (ROXIE)
-https://601.shadow-ran.online/crystal.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tottenham vs West Ham (ROXIE)
 https://601.shadow-ran.online/tottenham.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Liverpool vs Burnley (ROXIE)
@@ -31,6 +29,8 @@ https://daffodil.shadow-ran.online/xtra.m3u8
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Al Nassr vs Al Shabab (ROXIE)
 https://daffodil.shadow-ran.online/nassr.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Nottingham Forest vs Arsenal (ROXIE)
+https://daffodil.shadow-ran.online/tnt.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] RB Leipzig vs Bayern München (ROXIE)
 https://daffodil.shadow-ran.online/arena.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Toulouse vs Nice (ROXIE)
@@ -43,3 +43,7 @@ https://601.shadow-ran.online/sportv.m3u8
 https://daffodil.shadow-ran.online/xtra.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Boavista vs Flumiense (ROXIE)
 https://daffodil.shadow-ran.online/nassr.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Grêmio vs São Luiz (ROXIE)
+https://daffodil.shadow-ran.online/tnt.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Volta Redonda vs Flamengo (ROXIE)
+https://daffodil.shadow-ran.online/tnt.m3u8

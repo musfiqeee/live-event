@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] BKFC 86: LANE vs PAGUE (ROXIE)
+https://601.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Utah Jazz vs Dallas Mavericks (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Oklahoma City Thunder vs Miami Heat (ROXIE)

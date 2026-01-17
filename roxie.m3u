@@ -1,1 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Watford vs Millwall (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Udinese vs Inter Milan (ROXIE)
+https://601.shadow-ran.online/milan.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Chelsea vs Brentford (ROXIE)
+https://601.shadow-ran.online/chelsea.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Leeds United vs Fulham (ROXIE)
+https://601.shadow-ran.online/fulham.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tottenham vs West Ham (ROXIE)
+https://601.shadow-ran.online/tottenham.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Preston North End vs Derby County (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Egypt vs Nigeria (ROXIE)
+https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Napoli vs Sassuolo (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Al Nassr vs Al Shabab (ROXIE)
+https://daffodil.shadow-ran.online/nassr.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Toulouse vs Nice (ROXIE)
+https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cagliari vs Juventus (ROXIE)
+https://daffodil.shadow-ran.online/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Angers SCO vs Marseille (ROXIE)
+https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Boavista vs Flumiense (ROXIE)
+https://daffodil.shadow-ran.online/nassr.m3u8

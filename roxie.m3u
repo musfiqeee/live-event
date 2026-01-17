@@ -1,9 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Oklahoma City Thunder vs Miami Heat (ROXIE)
+https://601.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Toulouse vs Nice (ROXIE)
 https://601.shadow-ran.online/sportv.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cagliari vs Juventus (ROXIE)
-https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Angers SCO vs Marseille (ROXIE)
 https://601.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Boavista vs Flumiense (ROXIE)
+https://601.shadow-ran.online/flu.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Grêmio vs São Luiz (ROXIE)
 https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Chivas vs Querétaro (ROXIE)
+https://601.shadow-ran.online/chivas.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Volta Redonda vs Flamengo (ROXIE)
+https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tigres UANL vs Toluca (ROXIE)
+https://601.shadow-ran.online/chivas.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cruz Azul vs Puebla (ROXIE)
+https://601.shadow-ran.online/tudn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Canada vs Guatemala (ROXIE)
+https://601.shadow-ran.online/depp.m3u8

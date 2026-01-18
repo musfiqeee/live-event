@@ -43,5 +43,7 @@ https://601.shadow-ran.online/sportv.m3u8
 https://daffodil.shadow-ran.online/tudn.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sampaio Corrêa RJ vs Botafogo (ROXIE)
 https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Colo-Colo vs Alianza Lima (ROXIE)
+https://601.shadow-ran.online/colo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Pachuca vs América (ROXIE)
 https://daffodil.shadow-ran.online/tudn.m3u8

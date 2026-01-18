@@ -13,6 +13,8 @@ https://daffodil.alfirdaus.eu.org/nba6.m3u8
 https://601.alfirdaus.eu.org/nba7.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Washington Wizards vs Denver Nuggets (ROXIE)
 https://601.alfirdaus.eu.org/nba8.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Lakers vs Portland Trail Blazers (ROXIE)
+https://601.alfirdaus.eu.org/nba4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Toulouse vs Nice (ROXIE)
 https://601.alfirdaus.eu.org/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Angers SCO vs Marseille (ROXIE)

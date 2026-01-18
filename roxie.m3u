@@ -27,10 +27,8 @@ https://daffodil.shadow-ran.online/main.m3u8
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Torino vs Roma (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Auchinleck Talbot vs Celtic (ROXIE)
-https://daffodil.shadow-ran.online/celtic.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Pumas UNAM vs Leon (ROXIE)
-https://601.shadow-ran.online/tudn.m3u8
+https://daffodil.shadow-ran.online/tudn.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lyon vs Brest (ROXIE)
 https://daffodil.shadow-ran.online/xtra.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Milan vs Lecce (ROXIE)
@@ -40,7 +38,7 @@ https://601.shadow-ran.online/azteca.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Atlético Mineiro vs Tombense (ROXIE)
 https://601.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Santos Laguna vs Juárez (ROXIE)
-https://601.shadow-ran.online/tudn.m3u8
+https://daffodil.shadow-ran.online/tudn.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sampaio Corrêa RJ vs Botafogo (ROXIE)
 https://601.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Colo-Colo vs Alianza Lima (ROXIE)
@@ -48,4 +46,4 @@ https://601.shadow-ran.online/flu.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Boca Juniors vs Olimpia (ROXIE)
 https://601.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Pachuca vs América (ROXIE)
-https://601.shadow-ran.online/tudn.m3u8
+https://daffodil.shadow-ran.online/tudn.m3u8

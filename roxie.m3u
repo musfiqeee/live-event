@@ -3,6 +3,8 @@
 https://601.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Orlando Magic vs Memphis Grizzlies (ROXIE)
 https://601.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Brooklyn Nets vs Chicago Bulls (ROXIE)
+https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New Orleans Pelicans vs Houston Rockets (ROXIE)
 https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Charlotte Hornets vs Denver Nuggets (ROXIE)
@@ -45,5 +47,7 @@ https://daffodil.shadow-ran.online/tudn.m3u8
 https://601.shadow-ran.online/sportv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Colo-Colo vs Alianza Lima (ROXIE)
 https://601.shadow-ran.online/colo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Boca Juniors vs Olimpia (ROXIE)
+https://601.shadow-ran.online/boca.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Pachuca vs América (ROXIE)
 https://daffodil.shadow-ran.online/tudn.m3u8

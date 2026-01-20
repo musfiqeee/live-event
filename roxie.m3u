@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE NXT (ROXIE)
 https://601.shadow-ran.online/wwe.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Milwaukee Bucks vs Atlanta Hawks (ROXIE)
-https://601.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Oklahoma City Thunder vs Cleveland Cavaliers (ROXIE)
-https://601.shadow-ran.online/nba2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Clippers vs Washington Wizards (ROXIE)
-https://601.shadow-ran.online/nba3.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Dallas Mavericks vs New York Knicks (ROXIE)
-https://daffodil.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Utah Jazz vs San Antonio Spurs (ROXIE)
-https://daffodil.shadow-ran.online/nba5.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Indiana Pacers vs Philadelphia 76ers (ROXIE)
-https://daffodil.shadow-ran.online/nba6.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Brooklyn Nets (ROXIE)
-https://601.shadow-ran.online/nba7.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Boston Celtics vs Detroit Pistons (ROXIE)
-https://daffodil.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Golden State Warriors (ROXIE)
-https://daffodil.shadow-ran.online/nba9.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Philadelphia 76ers (ROXIE)
 https://601.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Clippers vs Chicago Bulls (ROXIE)
@@ -33,11 +15,17 @@ https://daffodil.shadow-ran.online/nba5.m3u8
 https://daffodil.shadow-ran.online/nba6.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Sacramento Kings (ROXIE)
 https://601.shadow-ran.online/nba7.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Kairat vs Club Brugge (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Damac vs Al Nassr (ROXIE)
 https://daffodil.shadow-ran.online/tnt.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bodø / Glimt vs Man City (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Galatasaray vs Atlético Madrid (ROXIE)
 https://daffodil.shadow-ran.online/tnt2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Olympiakos Piraeus vs Bayer Leverkusen (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] UEFA Golazo Show (ROXIE)
 https://601.shadow-ran.online/bayer.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Villarreal vs Ajax (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bayern München vs Union Saint-Gilloise (ROXIE)
 https://601.shadow-ran.online/ajax.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Slavia Praha vs Barcelona (ROXIE)
+https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Stoke City vs Middlesbrough (ROXIE)
+https://601.shadow-ran.online/colo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Colo-Colo vs Penarol (ROXIE)
+https://601.shadow-ran.online/boca.m3u8

@@ -23,11 +23,7 @@ https://daffodil.shadow-ran.online/nba9.m3u8
 https://daffodil.shadow-ran.online/tnt.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bodø / Glimt vs Man City (ROXIE)
 https://daffodil.shadow-ran.online/tnt2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] København vs Napoli (ROXIE)
-https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Olympiakos Piraeus vs Bayer Leverkusen (ROXIE)
-https://daffodil.shadow-ran.online/one.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tottenham Hotspur vs Dortmund (ROXIE)
-https://daffodil.shadow-ran.online/xtra.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sporting CP vs PSG (ROXIE)
-https://daffodil.shadow-ran.online/tudn.m3u8
+https://601.shadow-ran.online/bayer.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Villarreal vs Ajax (ROXIE)
+https://601.shadow-ran.online/ajax.m3u8

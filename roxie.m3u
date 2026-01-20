@@ -19,11 +19,19 @@ https://601.shadow-ran.online/nba7.m3u8
 https://daffodil.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Golden State Warriors (ROXIE)
 https://daffodil.shadow-ran.online/nba9.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Cremonese vs Verona (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Kairat vs Club Brugge (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lazio vs Como (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bodø / Glimt vs Man City (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Elche vs Sevilla (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] UEFA Golazo Show (ROXIE)
+https://601.shadow-ran.online/azteca.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Inter Milan vs Arsenal (ROXIE)
 https://daffodil.shadow-ran.online/dep.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Brighton vs Bournemouth (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] København vs Napoli (ROXIE)
 https://daffodil.shadow-ran.online/main.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Olympiakos Piraeus vs Bayer Leverkusen (ROXIE)
+https://daffodil.shadow-ran.online/one.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Tottenham Hotspur vs Dortmund (ROXIE)
+https://daffodil.shadow-ran.online/xtra.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Sporting CP vs PSG (ROXIE)
+https://daffodil.shadow-ran.online/tudn.m3u8

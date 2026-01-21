@@ -19,12 +19,8 @@ https://daffodil.shadow-ran.online/fs2.m3u8
 https://daffodil.shadow-ran.online/tnt4.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Qarabağ vs Frankfurt (ROXIE)
 https://601.shadow-ran.online/tnt9.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] UEFA Golazo Show (ROXIE)
-https://601.shadow-ran.online/bayer.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bayern München vs Union Saint-Gilloise (ROXIE)
-https://601.shadow-ran.online/ajax.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Slavia Praha vs Barcelona (ROXIE)
-https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Southampton vs Sheffield United (ROXIE)
+https://601.shadow-ran.online/southampton.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Stoke City vs Middlesbrough (ROXIE)
 https://601.shadow-ran.online/colo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Colo-Colo vs Penarol (ROXIE)

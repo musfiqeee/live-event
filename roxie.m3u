@@ -15,13 +15,25 @@ https://daffodil.shadow-ran.online/nba5.m3u8
 https://601.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Toronto Raptors vs Sacramento Kings (ROXIE)
 https://daffodil.shadow-ran.online/nba7.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Galatasaray vs Atlético Madrid (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Charlotte Hornets vs Orlando Magic (ROXIE)
+https://601.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Philadelphia 76ers (ROXIE)
+https://daffodil.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Denver Nuggets vs Washington Wizards (ROXIE)
+https://daffodil.shadow-ran.online/nba3.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Golden State Warriors vs Dallas Mavericks (ROXIE)
+https://daffodil.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Chicago Bulls vs Minnesota Timberwolves (ROXIE)
+https://daffodil.shadow-ran.online/nba5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] San Antonio Spurs vs Utah Jazz (ROXIE)
+https://601.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Lakers vs Los Angeles Clippers (ROXIE)
+https://daffodil.shadow-ran.online/nba7.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Portland Trail Blazers (ROXIE)
+https://daffodil.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bologna vs Celtic (ROXIE)
 https://daffodil.shadow-ran.online/tnt4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Qarabağ vs Frankfurt (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] PAOK vs Real Betis (ROXIE)
 https://601.shadow-ran.online/tnt9.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Southampton vs Sheffield United (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Young Boys vs Lyon (ROXIE)
 https://601.shadow-ran.online/southampton.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Stoke City vs Middlesbrough (ROXIE)
-https://601.shadow-ran.online/main.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Colo-Colo vs Penarol (ROXIE)
-https://601.shadow-ran.online/boca.m3u8

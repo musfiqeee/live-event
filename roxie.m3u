@@ -3,6 +3,10 @@
 https://601.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
 https://601.shadow-ran.online/wwe.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] IMSA Michelin Pilot Challenge (ROXIE)
+https://601.shadow-ran.online/imsa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Rolex 24 at DAYTONA (IMSA) (ROXIE)
+https://601.shadow-ran.online/imsa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Detroit Pistons (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Atlanta Hawks (ROXIE)
@@ -24,6 +28,6 @@ https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] St. Pauli vs Hamburger SV (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Inter Milan vs Pisa (ROXIE)
-https://daffodil.shadow-ran.online/tnt3.m3u8
+https://601.shadow-ran.online/tnt.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Levante vs Elche (ROXIE)
-https://601.shadow-ran.online/lyon.m3u8
+https://601.shadow-ran.online/dep.m3u8

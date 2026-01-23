@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] ZUFFA BOXING: WALSH VS OCAMPO (ROXIE)
+https://daffodil.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
 https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] UFC 324: Gaethje vs Pimblett (ROXIE)

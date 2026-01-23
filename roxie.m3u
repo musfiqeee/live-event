@@ -20,11 +20,9 @@ https://daffodil.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Indiana Pacers vs Oklahoma City Thunder (ROXIE)
 https://601.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Denver Nuggets vs Milwaukee Bucks (ROXIE)
-https://daffodil.shadow-ran.online/nba7.m3u8
+https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Toronto Raptors vs Portland Trail Blazers (ROXIE)
 https://601.shadow-ran.online/nba8.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Auxerre vs PSG (ROXIE)
-https://daffodil.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] St. Pauli vs Hamburger SV (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Inter Milan vs Pisa (ROXIE)

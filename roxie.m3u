@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] UFC 324: Gaethje vs Pimblett (ROXIE)
-https://601.xn--1000-ugoa0hsb9a0hb.com/ufc.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Saturday Night's Main Event (ROXIE)
 https://601.xn--1000-ugoa0hsb9a0hb.com/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Rolex 24 at DAYTONA (IMSA) (ROXIE)
@@ -21,22 +19,12 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Ham vs Sunderland (ROXIE)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/usa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Middlesbrough vs Preston North End (ROXIE)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/cbssn.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Millwall vs Charlton Athletic (ROXIE)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Burnley vs Tottenham (ROXIE)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/usa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Birmingham City vs Stock City (ROXIE)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rennes vs Lorient (ROXIE)
 https://601.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fiorentina vs Cagliari (ROXIE)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Le Havre vs Monaco (ROXIE)
 https://601.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lecce vs Lazio (ROXIE)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lens vs Marseille (ROXIE)
 https://601.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Botafogo vs Bangu (ROXIE)

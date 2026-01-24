@@ -6,7 +6,7 @@ https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Rolex 24 at DAYTONA (IMSA) (ROXIE)
 https://601.shadow-ran.online/imsa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Washington Wizards vs Charlotte Hornets (ROXIE)
-https://daffodil.shadow-ran.online/nba3.m3u8
+https://601.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Philadelphia 76ers (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Golden State Warriors vs Minnesota Timberwolves (ROXIE)
@@ -30,20 +30,14 @@ https://daffodil.shadow-ran.online/usa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Birmingham City vs Stock City (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rennes vs Lorient (ROXIE)
-https://daffodil.shadow-ran.online/tnt.m3u8
+https://601.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fiorentina vs Cagliari (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Le Havre vs Monaco (ROXIE)
-https://daffodil.shadow-ran.online/tnt.m3u8
+https://601.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lecce vs Lazio (ROXIE)
 https://daffodil.shadow-ran.online/golazo.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Barracas Central vs River Plate (ROXIE)
-https://601.shadow-ran.online/frei.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lens vs Marseille (ROXIE)
-https://daffodil.shadow-ran.online/tnt.m3u8
+https://601.shadow-ran.online/beines.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Botafogo vs Bangu (ROXIE)
-https://601.shadow-ran.online/main.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Inter Miami vs Alianza Lima (ROXIE)
-https://601.shadow-ran.online/boca.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Universitario vs Universidad Chile (ROXIE)
-https://601.shadow-ran.online/vix.m3u8
+https://601.shadow-ran.online/sportv.m3u8

@@ -1,33 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] ZUFFA BOXING: WALSH VS OCAMPO (ROXIE)
-https://601.shadow-ran.online/ppv2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Smackdown (ROXIE)
-https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] UFC 324: Gaethje vs Pimblett (ROXIE)
 https://601.shadow-ran.online/ufc.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] IMSA Michelin Pilot Challenge (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Fighting] WWE Saturday Night's Main Event (ROXIE)
+https://601.shadow-ran.online/wwe.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] AMA Supercross Anaheim II (Qualifying) (ROXIE)
 https://601.shadow-ran.online/imsa.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Rolex 24 at DAYTONA (IMSA) (ROXIE)
 https://601.shadow-ran.online/imsa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Houston Rockets vs Detroit Pistons (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] AMA Supercross Anaheim II (Race) (ROXIE)
+https://601.shadow-ran.online/imsa.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Philadelphia 76ers (ROXIE)
 https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Phoenix Suns vs Atlanta Hawks (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Golden State Warriors vs Minnesota Timberwolves (ROXIE)
 https://daffodil.shadow-ran.online/nba2.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Boston Celtics vs Brooklyn Nets (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Washington Wizards vs Charlotte Hornets (ROXIE)
 https://daffodil.shadow-ran.online/nba3.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Sacramento Kings vs Cleveland Cavaliers (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Cleveland Cavaliers vs Orlando Magic (ROXIE)
 https://daffodil.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New Orleans Pelicans vs Memphis Grizzlies (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Boston Celtics vs Chicago Bulls (ROXIE)
 https://daffodil.shadow-ran.online/nba5.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Indiana Pacers vs Oklahoma City Thunder (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Lakers vs Dallas Mavericks (ROXIE)
 https://daffodil.shadow-ran.online/nba6.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Denver Nuggets vs Milwaukee Bucks (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Utah Jazz (ROXIE)
 https://daffodil.shadow-ran.online/nba7.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Toronto Raptors vs Portland Trail Blazers (ROXIE)
-https://601.shadow-ran.online/nba8.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] St. Pauli vs Hamburger SV (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Ham vs Sunderland (ROXIE)
 https://daffodil.shadow-ran.online/one.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Inter Milan vs Pisa (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Middlesbrough vs Preston North End (ROXIE)
 https://601.shadow-ran.online/tnt.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Levante vs Elche (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Millwall vs Charlton Athletic (ROXIE)
 https://601.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Burnley vs Tottenham (ROXIE)
+https://daffodil.shadow-ran.online/one.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Birmingham City vs Stock City (ROXIE)
+https://601.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rennes vs Lorient (ROXIE)
+https://daffodil.shadow-ran.online/tnt.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fiorentina vs Cagliari (ROXIE)
+https://601.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Le Havre vs Monaco (ROXIE)
+https://daffodil.shadow-ran.online/tnt.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lecce vs Lazio (ROXIE)
+https://601.shadow-ran.online/dep.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Barracas Central vs River Plate (ROXIE)
+https://601.shadow-ran.online/frei.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lens vs Marseille (ROXIE)
+https://daffodil.shadow-ran.online/tnt.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Botafogo vs Bangu (ROXIE)
+https://601.shadow-ran.online/main.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Inter Miami vs Alianza Lima (ROXIE)
+https://601.shadow-ran.online/boca.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Universitario vs Universidad Chile (ROXIE)
+https://601.shadow-ran.online/vix.m3u8

@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Racing] Rolex 24 at DAYTONA (IMSA) (ROXIE)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/imsa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New York Knicks vs Philadelphia 76ers (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Sacramento Kings vs Detroit Pistons (ROXIE)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Golden State Warriors vs Minnesota Timberwolves (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Denver Nuggets vs Memphis Grizzlies (ROXIE)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Lakers vs Dallas Mavericks (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Phoenix Suns (ROXIE)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Miami Heat vs Utah Jazz (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Brooklyn Nets vs Los Angeles Clippers (ROXIE)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] West Ham vs Sunderland (ROXIE)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/usa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Burnley vs Tottenham (ROXIE)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/usa.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Rennes vs Lorient (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Portsmouth vs Southampton (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/cbssn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Brentford vs Nottingham Forest (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/cbssn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Crystal Palace vs Chelsea (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/golazo.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Hearts vs Celtic (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/cbssn.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Brest vs Toulouse (ROXIE)
 https://601.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Le Havre vs Monaco (ROXIE)
-https://601.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Lens vs Marseille (ROXIE)
-https://601.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Botafogo vs Bangu (ROXIE)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Bolivia vs Mexico (ROXIE)
 https://601.xn--1000-ugoa0hsb9a0hb.com/sportv.m3u8

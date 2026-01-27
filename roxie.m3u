@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Sacramento Kings vs New York Knicks (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] New Orleans Pelicans vs Oklahoma City Thunder (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba4.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Detroit Pistons vs Denver Nuggets (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Brooklyn Nets vs Phoenix Suns (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[NBA] Los Angeles Clippers vs Utah Jazz (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] St. Pauli vs Leipzig (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/one.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="None",[Soccer] Fiorentina vs Como (ROXIE)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/golazo.m3u8
